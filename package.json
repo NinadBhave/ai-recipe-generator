@@ -10,9 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@aws-amplify/ui-react": "^6.7.2",
     "aws-amplify": "^6.10.3",
+    "glob": "^11.0.0",
+    "inflight": "^1.0.6",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "rimraf": "^6.0.1"
   },
   "devDependencies": {
     "@aws-amplify/backend": "^1.9.0",
